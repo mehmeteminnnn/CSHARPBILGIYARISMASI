@@ -1,0 +1,8 @@
+C:\Users\mhmtm\Desktop\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.exe.config
+C:\Users\mhmtm\Desktop\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.exe
+C:\Users\mhmtm\Desktop\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.pdb
+C:\Users\mhmtm\Desktop\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.csproj.AssemblyReference.cache
+C:\Users\mhmtm\Desktop\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmtm\Desktop\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.csproj.CoreCompileInputs.cache
+C:\Users\mhmtm\Desktop\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.exe
+C:\Users\mhmtm\Desktop\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.pdb
